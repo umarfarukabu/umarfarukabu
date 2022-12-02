@@ -56,7 +56,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api
+                username=Umarfarukabu&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=BolisettySujith&theme=radical&hide_border=false" />
