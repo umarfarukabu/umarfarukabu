@@ -3,7 +3,7 @@
 <p align="center"><img src="gifs/header.gif" alt="Profile" width="100%"/></a></p>
 
 <div align="left">
-  <h1>Hello coders, I'm UmarFaruk! 👋 </h1>
+  <h1>Hello Devs, I'm UmarFaruk! 👋 </h1>
 </div>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
@@ -11,7 +11,7 @@
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
 [![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)
-[![blog badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://bolisettysujith.github.io)
+[![stackoverflow badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://stackoverflow.com)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
@@ -19,15 +19,15 @@
 
 ## About Me😇
 
-- 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
+- 🏫 I'm a Computer Science(AI Enthusiast ) 
 
-- 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
+- 🧍‍♂️ I'm currently the CEO & mentor at [Fassfy,com](http://www.fassfy.com)
 
 - 😎 Augmented Reality & Virtual Reality enthusiast
 
 - 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
 
-- 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+- 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 💻computers😅
 
 - ⌨ Touch typing is one of my hobbie, and I'm curretnly maintaining a speed of 60WPM😉
 
@@ -69,24 +69,24 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+      <a href="#">
         <img align="center" src="gifs\jarvis.gif ">
       </a>
     </td>    
     <td>
-      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+      <a href="https:#">
         <img align="center" src="gifs\covikill.gif">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+      <a href="#">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/BolisettySujith/Covi-Kill">
+      <a href="">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
       </a>
     </td>
