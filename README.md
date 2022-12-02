@@ -6,15 +6,15 @@
   <h1>Hello Devs, I'm UmarFaruk! 👋 </h1>
 </div>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
-[![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisetty-sujith-52a154214/)
-[![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
+[![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)]()
+[![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/umar-faruque-286201242/)
+[![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)]()
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
 [![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)
-[![stackoverflow badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://stackoverflow.com)
+[![stackoverflow badge](https://img.shields.io/badge/website-umarfarukabu.github.io-1f425f?style=stackoverflow)](https://stackoverflow.com/users/11891228/godda)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
+  <img src="https://komarev.com/ghpvc/?username="umarfarukabu" alt="umarfarukabu" /> 
 </p>
 
 ## About Me😇
@@ -82,12 +82,12 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarukabu&repo=J.A.R.V.I.S&theme=radical" />
       </a>
     </td>
     <td align="center">
       <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarukabu&repo=Covi-Kill&theme=radical" />
       </a>
     </td>
   </tr>
