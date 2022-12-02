@@ -14,7 +14,7 @@
 [![stackoverflow badge](https://img.shields.io/badge/website-umarfarukabu.github.io-1f425f?style=stackoverflow)](https://stackoverflow.com/users/11891228/godda)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username="BolisettySujith" alt="umarfarukabu" /> 
+  <img src="https://komarev.com/ghpvc/?username="BolisettySujith" alt="BolisettySujith" /> 
 </p>
 
 ## About Me😇
