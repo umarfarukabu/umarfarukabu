@@ -14,7 +14,7 @@
 [![stackoverflow badge](https://img.shields.io/badge/website-umarfarukabu.github.io-1f425f?style=stackoverflow)](https://stackoverflow.com/users/11891228/godda)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username="umarfarukabu" alt="umarfarukabu" /> 
+  <img src="https://komarev.com/ghpvc/?username="BolisettySujith" alt="umarfarukabu" /> 
 </p>
 
 ## About Me😇
@@ -82,12 +82,12 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarukabu&repo=J.A.R.V.I.S&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
       </a>
     </td>
     <td align="center">
       <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umarfarukabu&repo=Covi-Kill&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
       </a>
     </td>
   </tr>
