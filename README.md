@@ -6,11 +6,11 @@
   <h1>Hello Devs, I'm UmarFaruk! 👋 </h1>
 </div>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)]()
+
 [![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/umar-faruque-286201242/)
-[![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)]()
-[![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
-[![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)
+[![dev community badge](https://img.shields.io/badge/dev-umarfaruk_abu-0077b5?style=social&logo=dev.to)]()
+[![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)]()
+[![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)]()
 [![stackoverflow badge](https://img.shields.io/badge/website-umarfarukabu.github.io-1f425f?style=stackoverflow)](https://stackoverflow.com/users/11891228/godda)
 
 <p align="left"> 
