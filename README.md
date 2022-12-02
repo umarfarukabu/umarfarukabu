@@ -9,7 +9,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-umar_faruque-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/umar-faruque-286201242/)
 [![dev community badge](https://img.shields.io/badge/dev-umarfaruk_abu-0077b5?style=social&logo=dev.to)]()
-[![Medium badge](https://img.shields.io/badge/medium-umar_faruque-0077b5?style=social&logo=medium)]()
+[![Medium badge](https://img.shields.io/badge/medium-umar_faruque-0077b5?style=social&logo=medium)](https://medium.com/@umarfarukabuba)
 [![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)]()
 [![stackoverflow badge](https://img.shields.io/badge/website-umarfarukabu.github.io-1f425f?style=stackoverflow)](https://stackoverflow.com/users/11891228/godda)
 
