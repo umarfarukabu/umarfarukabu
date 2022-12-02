@@ -66,68 +66,6 @@
 
 ## Projects😉
 
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img align="center" src="gifs\jarvis.gif ">
-      </a>
-    </td>    
-    <td>
-      <a href="https:#">
-        <img align="center" src="gifs\covikill.gif">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Akshatji800/Relive">
-        <img align="center" src="gifs\relive.gif ">
-      </a>
-    </td>    
-    <td>
-      <a href="https://github.com/BolisettySujith/Share-Karo">
-        <img align="center" src="gifs\sharekaro.gif">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/BolisettySujith/Just-Listen">
-        <img align="center" src="gifs\justlisten.gif">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Akshatji800/Relive">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshatji800&repo=Relive&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BolisettySujith/Share-Karo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Share-Karo&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BolisettySujith/Just-Listen">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 <p align="center">
